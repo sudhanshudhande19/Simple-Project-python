@@ -1,0 +1,3 @@
+
+Python seekhna hai
+File handling padhna hai
