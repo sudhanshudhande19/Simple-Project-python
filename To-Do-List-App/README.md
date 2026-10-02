@@ -1,40 +1,71 @@
-# To-Do List App
+<div align="center">
 
-## Description
+<img src="assets/banner.svg" alt="To-Do List App Banner" width="100%"/>
 
-The To-Do List App is a simple command-line Python project that helps users manage their daily tasks. Users can add new tasks, view all tasks, delete completed tasks, and exit the application. This project is useful for learning Python lists, loops, and conditional statements.
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Type](https://img.shields.io/badge/Type-CLI%20Project-00c9ff?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-92fe9d?style=for-the-badge)
+![Made By](https://img.shields.io/badge/Made%20by-Sudhanshu%20Dhande-f9d423?style=for-the-badge)
+
+<h3>✅ A simple command-line To-Do List app to manage your daily tasks ✅</h3>
+
+<p>
+  <a href="#-features">Features</a> •
+  <a href="#️-how-to-run">How to Run</a> •
+  <a href="#-menu-options">Menu</a> •
+  <a href="#-sample-output">Sample Output</a> •
+  <a href="#-author">Author</a>
+</p>
+
+</div>
 
 ---
 
-## Features
+## 📖 Description
 
-- Add New Task
-- View All Tasks
-- Delete Task
-- Exit Program
-- Menu-Driven Application
-- Input Validation
-- Error Handling using try-except
+The **To-Do List App** is a simple command-line Python project that helps users manage their daily tasks. Users can add new tasks, view all tasks, delete completed tasks, and exit the application. This project is useful for learning **Python lists, loops, and conditional statements**.
 
 ---
 
-## Technologies Used
+## ✨ Features
+
+| | Feature |
+|---|---|
+| ➕ | Add New Task |
+| 👀 | View All Tasks |
+| 🗑️ | Delete Task |
+| 🚪 | Exit Program |
+| 📋 | Menu-Driven Application |
+| ✅ | Input Validation |
+| 🛡️ | Error Handling using try-except |
+
+---
+
+## 🛠️ Technologies Used
+
+<p>
+  <img src="https://img.shields.io/badge/Python%203-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
 
 - Python 3
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 To-Do-List-App/
+│── assets/
+│   └── banner.svg
 │── todo.py
 └── README.md
 ```
 
 ---
 
-## How to Run
+## ▶️ How to Run
 
 1. Open the project folder.
 2. Open Terminal or Command Prompt.
@@ -46,7 +77,7 @@ python todo.py
 
 ---
 
-## Menu Options
+## 📋 Menu Options
 
 1. Add Task
 2. View Tasks
@@ -55,7 +86,7 @@ python todo.py
 
 ---
 
-## Validations
+## 🛡️ Validations
 
 - Empty tasks are not allowed.
 - Displays a message if no tasks are available.
@@ -64,7 +95,7 @@ python todo.py
 
 ---
 
-## Sample Output
+## 🖥️ Sample Output
 
 ```
 ===== TO-DO LIST =====
@@ -83,7 +114,7 @@ Task Added Successfully
 
 ---
 
-## Concepts Used
+## 📚 Concepts Used
 
 - Variables
 - Lists
@@ -95,6 +126,12 @@ Task Added Successfully
 
 ---
 
-## Author
+## 👨‍💻 Author
+
+<div align="center">
 
 **Sudhanshu Dhande**
+
+⭐ *If you like this project, don't forget to give it a star!* ⭐
+
+</div>
